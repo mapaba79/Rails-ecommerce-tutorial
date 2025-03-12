@@ -1,8 +1,10 @@
-My First E-Commerce with Ruby on Rails
+# My First E-Commerce with Ruby on Rails
 
 This is an e-commerce project created by following the official Ruby on Rails tutorial. The goal is to learn the fundamentals of the Rails framework while building a functional application.
 
-🚀 Technologies Used
+
+
+# 🚀 Technologies Used
 
 Ruby on Rails
 
@@ -14,7 +16,9 @@ Action Mailer (for email notifications)
 
 Active Record (to interact with the database)
 
-📌 Features
+
+
+# 📌 Features
 
 Product creation, editing, and deletion
 
@@ -24,7 +28,9 @@ Order system
 
 Email notifications when a product is back in stock
 
-🔧 Installation
+
+
+# 🔧 Installation
 
 1. Clone the repository
 
@@ -45,11 +51,13 @@ Email notifications when a product is back in stock
 
 Access http://localhost:3000 in your browser.
 
-📖 Based on the Official Tutorial
+
+
+# 📖 Based on the Official Tutorial
 
 This project was developed by following the official Rails tutorial:
 Getting Started with Rails
 
-📜 License
+# 📜 License
 
 This project is for educational purposes only.
