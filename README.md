@@ -1,24 +1,55 @@
-# README
+My First E-Commerce with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an e-commerce project created by following the official Ruby on Rails tutorial. The goal is to learn the fundamentals of the Rails framework while building a functional application.
 
-Things you may want to cover:
+🚀 Technologies Used
 
-* Ruby version
+Ruby on Rails
 
-* System dependencies
+SQLite (Rails default database)
 
-* Configuration
+Bootstrap (for basic styling)
 
-* Database creation
+Action Mailer (for email notifications)
 
-* Database initialization
+Active Record (to interact with the database)
 
-* How to run the test suite
+📌 Features
 
-* Services (job queues, cache servers, search engines, etc.)
+Product creation, editing, and deletion
 
-* Deployment instructions
+Shopping cart
 
-* ...
+Order system
+
+Email notifications when a product is back in stock
+
+🔧 Installation
+
+1. Clone the repository
+
+  git clone https://github.com/your-username/your-repository.git
+  cd your-repository
+
+2. Install dependencies
+
+  bundle install
+
+3. Set up the database
+
+  rails db:migrate
+
+4. Start the server
+
+  rails server
+
+Access http://localhost:3000 in your browser.
+
+📖 Based on the Official Tutorial
+
+This project was developed by following the official Rails tutorial:
+Getting Started with Rails
+
+📜 License
+
+This project is for educational purposes only.
