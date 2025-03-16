@@ -34,8 +34,8 @@ Email notifications when a product is back in stock
 
 1. Clone the repository
 
-  git clone https://github.com/your-username/your-repository.git
-  cd your-repository
+  git clone https://github.com/mapaba79/Rails-ecommerce-tutorial.git
+  cd Rails-ecommerce-tutorial
 
 2. Install dependencies
 
