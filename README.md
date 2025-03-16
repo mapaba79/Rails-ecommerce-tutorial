@@ -56,7 +56,7 @@ Access http://localhost:3000 in your browser.
 # 📖 Based on the Official Tutorial
 
 This project was developed by following the official Rails tutorial:
-Getting Started with Rails
+[Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 
 # 📜 License
 
